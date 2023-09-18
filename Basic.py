@@ -5,4 +5,11 @@ def multiply(a,b):
     b=input("b: ")
     print(a*b)
 
+multiply(a,b)
+
+def add(a,b):
+    a=input("a: ")
+    b=input("b: ")
+    print(a+b)
+
 add(a,b)
