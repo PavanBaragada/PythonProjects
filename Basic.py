@@ -1,6 +1,6 @@
-def divide(a,b):
-    a=input("a: ")
-    b=input("b: ")
-    print(a*b)
+a=int(input("a: "))
+b=int(input("b: "))
+def add(a,b):
+    print (a+b)
 
-divide(a,b)
+add(a,b)
