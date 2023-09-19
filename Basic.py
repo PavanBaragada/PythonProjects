@@ -10,5 +10,8 @@ def subtract(a,b):
 
 subtract(a,b)
 
+def mutliply(a,b):
+    print (a*b)
 
-Hi
+mutliply(a,b)
+
