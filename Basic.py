@@ -13,6 +13,6 @@ subtract(a,b)
 def mutliply(a,b):
     print (a*b)
 
-mutliply(a,b)
+mutliply(a,b)     
 
      
