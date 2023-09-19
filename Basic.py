@@ -4,3 +4,8 @@ def add(a,b):
     print (a+b)
 
 add(a,b)
+
+def subtract(a,b):
+    print (a-b)
+
+subtract(a,b)
