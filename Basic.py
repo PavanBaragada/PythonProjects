@@ -13,6 +13,11 @@ subtract(a,b)
 def mutliply(a,b):
     print (a*b)
 
-mutliply(a,b)     
+mutliply(a,b)
 
-     
+def divide(a,b):
+    print (a/b)
+
+divide(a,b)
+
+        
